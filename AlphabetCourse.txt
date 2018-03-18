@@ -1,0 +1,26 @@
+A, C.
+B, A, C, F.
+C.
+D, B, C.
+E, B, D, F.
+F, A.
+G, D, E, F.
+H, C.
+I, D.
+J, H, I.
+K, H.
+L, H, I, K.
+M, I, L.
+N, G, M.
+O, G, N.
+P, O.
+Q, G.
+R, N, V.
+S, O, Q, R.
+T, N.
+U, T.
+V, U.
+W, T.
+X, U, W.
+Y, V, X.
+Z, Q, R, S, Y.
