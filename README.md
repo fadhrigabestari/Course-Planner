@@ -1,7 +1,7 @@
 # Course-Planner
 Determine what course to take each semester. It uses BFS and DFS method to determine what course needs to be taken.
 
-Create a text file containing all available courses and its prerequisite
+Create a text file containing all available courses and its' prerequisites
 
 Text format :
 
